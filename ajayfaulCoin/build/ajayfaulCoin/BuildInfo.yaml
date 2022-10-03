@@ -1,0 +1,20 @@
+---
+compiled_package_info:
+  package_name: ajayfaulCoin
+  address_alias_instantiation:
+    NamedAddr: 0000000000000000000000000000cafe
+    std: "00000000000000000000000000000001"
+  source_digest: 7FD4FF13F199484BB7EF8540DC3D9C88A50AD1E8D88E31F454062BFFF72E6D9B
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies:
+  - MoveStdlib
